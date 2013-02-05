@@ -9,6 +9,8 @@ Description: Reads in an input file parses it and turns information
              apply a scalar multiplication. It then prints these results to
              an out file.
 
+Compiling Instructions: Download all the files and type "make" in SSH
+
 Files Submitted: List.java, ListTest.java, Sparce.java, Matrix.java, MatrixTest.java, Makefile, and README
 
 List.java:       Contains the doubly linked List ADT and all its functions.
