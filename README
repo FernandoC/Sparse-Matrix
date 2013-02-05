@@ -1,0 +1,33 @@
+Name: Fernando Carrillo (fcarril1)
+Class: CMPS101 w/ Patrick Tantalo
+Assignment: PA3
+
+Description: Reads in an input file parses it and turns information
+             into two matrices. The matrix is essentially an array of doubly
+             LinkedLists. Sparce.java then procedes to add, subtact, multiply
+             them to each other. The program can also transpose matrices or
+             apply a scalar multiplication. It then prints these results to
+             an out file.
+
+Files Submitted: List.java, ListTest.java, Sparce.java, Matrix.java, MatrixTest.java, Makefile, and README
+
+List.java:       Contains the doubly linked List ADT and all its functions.
+
+ListTest.java:   Contains a program that uses the List ADT to make sure everything
+                 is in order by calling all of its functions.
+
+Sparce.java:     Reads in a file and creates Matrix A and B.
+                 The matrix is essentially an array of doubly LinkedLists. 
+                 Sparce.java then procedes to add, subtact, multiply
+                 them to each other. The program can also transpose matrices or
+                 apply a scalar multiplication. It then prints these results to
+                 an out file.
+
+Matrix.java:     Contains the Matrix ADT and all of its functions. 
+
+MatrixTest.java: Contains a program that uses the Matrix ADT to make sure everything
+                 is in order by calling all of its functions.
+
+Makefile:        Compiles everything and makes the Sparce program into a jar file.
+
+README:          The title serves its purpose.
